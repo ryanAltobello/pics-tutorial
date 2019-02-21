@@ -4,5 +4,5 @@ Image List App created by tutorial lesson from [Modern React with Redux [2019 Up
 Javascript <br>
 React <br>
 
-### Features
+### Features 
 Retrieving images through search queries using [Unsplash API](https://unsplash.com/developers)
