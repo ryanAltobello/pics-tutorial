@@ -5,4 +5,4 @@ Javascript <br>
 React <br>
 
 ### Features 
-Retrieving images through search queries using [Unsplash API](https://unsplash.com/developers)
+Retrieving images through search queries using [Unsplash API](https://unsplash.com/developers) and dispalying a grid
